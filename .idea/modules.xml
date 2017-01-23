@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JMSChat.iml" filepath="$PROJECT_DIR$/.idea/modules/JMSChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JMSChat_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JMSChat_main.iml" group="JMSChat" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JMSChat_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JMSChat_test.iml" group="JMSChat" />
+    </modules>
+  </component>
+</project>
